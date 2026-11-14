@@ -115,7 +115,3 @@ Everything you make stays on your PC in `%APPDATA%\Dick Johnson Visual\`. That f
 - **Milkdrop presets:** the classics from [butterchurn-presets](https://github.com/jberg/butterchurn-presets), and the [Cream of the Crop](https://github.com/projectM-visualizer/presets-cream-of-the-crop) pack curated by ISOSCELES (via projectM), converted with [milkdrop-preset-converter](https://github.com/jberg/milkdrop-preset-converter) (MIT). All presets belong to their original authors; a few that don't render in butterchurn are left out.
 - **Built with:** [Electron](https://www.electronjs.org) (castlabs build with Widevine), [butterchurn](https://github.com/jberg/butterchurn), [Demucs](https://github.com/facebookresearch/demucs) (HTDemucs ONNX conversion by the Mixxx project and [smank/htdemucs-onnx](https://huggingface.co/smank/htdemucs-onnx)), [Whisper](https://github.com/openai/whisper) via [transformers.js](https://github.com/huggingface/transformers.js), the [Ghostery adblocker engine](https://github.com/ghostery/adblocker), CodeMirror, Lucide icons, and the Space Grotesk and JetBrains Mono fonts.
 - **Filter lists:** uBlock Origin, EasyList and Peter Lowe. These are downloaded at runtime, not bundled.
-
-## License
-
-© Dick Johnson. All rights reserved.
